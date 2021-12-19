@@ -1,9 +1,7 @@
-from decouple import config
-
 # TOKENS
-BOT_TOKEN = config('TOKEN')
-API_KEY = config('API_JSON')
-GCS_ENGINE_ID = config('GOOGLE_ID')
+BOT_TOKEN = ""
+API_KEY = ""
+GCS_ENGINE_ID = ""
 SPOTIFY_ID = ""
 SPOTIFY_SECRET = ""
 
